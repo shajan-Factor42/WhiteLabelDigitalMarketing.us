@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="46" viewBox="0 0 330 46" fill="none">
+  <g transform="translate(0 7)">
+    <rect x="2" y="20" width="28" height="3" fill="#E8FF52"></rect>
+    <rect x="5" y="23" width="3" height="7" fill="#8A8A85"></rect>
+    <rect x="24" y="23" width="3" height="7" fill="#8A8A85"></rect>
+    <rect x="7" y="7" width="18" height="10" stroke="#F5F5F0" stroke-width="2" fill="none"></rect>
+  </g>
+  <text x="44" y="17" font-family="'IBM Plex Mono', ui-monospace, monospace" font-size="9" letter-spacing="2.6" fill="#8A8A85">THE</text>
+  <text x="44" y="36" font-family="Archivo, Helvetica, sans-serif" font-size="21" font-weight="800" letter-spacing="-0.7" fill="#F5F5F0">WHITELABEL DESK</text>
+</svg>
